@@ -1,3 +1,4 @@
+import 'dart:io';
 
 void collectionMain(){
 
@@ -72,4 +73,13 @@ void collectionMain(){
   print("Is Map empty: ${country.isEmpty}");
   print("Is Map not empty: ${country.isNotEmpty}");
   print("Length of map is: ${country.length}");
+
+  print("--실습10--");
+  stdout.write("이름을 입력하세요: ");
+  String userName = stdin.readLineSync()!;
+
+  Map<String, int> student1 = {'Jane':18, 'Jhon':24, 'Tom':12, 'Kim':34, 'Damon':29};
+
+  print("$userName이 student 목록에 있나? ${student1.containsKey('userName')}");
+  print("$userName의 나이는 ${student1[userName]}");
 }
