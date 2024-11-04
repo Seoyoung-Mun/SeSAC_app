@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dedf419-188b-41a1-b36b-9b195a2946a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/241104_function_method.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dart_practice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dart_practice.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/15_tutorialPractice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/15_tutorialPractice.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Dart Command Line App.15_tutorialPractice.dart">
+  <component name="RunManager" selected="Dart Command Line App.dart_practice.dart">
     <configuration name="15_tutorialPractice.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/lib/15_tutorialPractice.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />

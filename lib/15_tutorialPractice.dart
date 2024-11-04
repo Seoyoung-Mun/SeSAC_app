@@ -1,7 +1,8 @@
 //20241017 with teacher
 import '15_vehicle.dart';
 
-void main() {
+void toutorialPacticeMain() {
+  // Vehicle car = Vehicle('Sonata', 2020, 'Hyundai', 30130);ain() {
   // Vehicle car = Vehicle('Sonata', 2020, 'Hyundai', 30130);
   // car.move();
   // car.stop();

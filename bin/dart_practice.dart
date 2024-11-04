@@ -13,6 +13,8 @@ import 'package:dart_practice/12_oop1.dart';
 import 'package:dart_practice/13_oop2.dart';
 import 'package:dart_practice/14_oop3.dart';
 import 'package:dart_practice/15_tutorialPractice.dart';
+import 'package:dart_practice/15_vehicle.dart';
+import 'package:dart_practice/241104_function_method.dart';
 
 void main(List<String> arguments) {
   // practiceMain(arguments);
@@ -29,8 +31,14 @@ void main(List<String> arguments) {
   // oopMain();
   // oop2Main();
   // oop3Main();
-  // tutorialPactice();
-  //git test
+  // toutorialPacticeMain();
+
+  // functionMethodMain();
+  // ifStatementMain();
+  forForinMain();
+
+
+
 }
 
 
