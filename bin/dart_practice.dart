@@ -15,6 +15,7 @@ import 'package:dart_practice/14_oop3.dart';
 import 'package:dart_practice/15_tutorialPractice.dart';
 import 'package:dart_practice/15_vehicle.dart';
 import 'package:dart_practice/241104_function_method.dart';
+import 'package:dart_practice/241105_asynchrony.dart';
 
 void main(List<String> arguments) {
   // practiceMain(arguments);
@@ -36,8 +37,8 @@ void main(List<String> arguments) {
   // functionMethodMain();
   // ifStatementMain();
   // forForinMain();
-  exceptionHandlingMain();
-
+  // exceptionHandlingMain();
+asynchronyMain();
 
 
 }
