@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dedf419-188b-41a1-b36b-9b195a2946a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/241105_asynchrony.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/241107_rps_game.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/dart_practice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dart_practice.dart" afterDir="false" />
     </list>

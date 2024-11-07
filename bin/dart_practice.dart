@@ -16,6 +16,7 @@ import 'package:dart_practice/15_tutorialPractice.dart';
 import 'package:dart_practice/15_vehicle.dart';
 import 'package:dart_practice/241104_function_method.dart';
 import 'package:dart_practice/241105_asynchrony.dart';
+import 'package:dart_practice/241107_rps_game.dart';
 
 void main(List<String> arguments) {
   // practiceMain(arguments);
@@ -38,7 +39,8 @@ void main(List<String> arguments) {
   // ifStatementMain();
   // forForinMain();
   // exceptionHandlingMain();
-asynchronyMain();
+  // asynchronyMain();
+  rpsGame();
 
 
 }
